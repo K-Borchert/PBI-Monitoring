@@ -7,4 +7,4 @@ This repository contains a solution template for monitoring Power BI Artefacts.
 <p><br /><strong>Prerequisite:</strong><br />- Installation of the REST API Connector - please follow the instructions on the page. (https://www.thepoweruser.com/2021/02/21/power-bi-rest-api-connector/)<br />- You must be authorised as a Fabric Administrator in the Azure Entra ID.</p>
 <p>&nbsp;</p>
 <p><strong>Contact me:</strong></p>
-<p>If you need an extended version of the template or help with installing it please write me a message on LinkedIN or by mail:</p>
+<p>If you need an extended version of the template or help with installing it please write me a message on LinkedIN or by mail: Kathrin.Borchert@drjve.de</p>
