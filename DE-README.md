@@ -1,7 +1,7 @@
-<p>In this repository you will find a Power BI template which you can use directly to monitor your Power BI environment. There are 2 things that need to be done before you can use this report.</p>
-<p>This solution only contains the current situation in the service. It does not include automated updating, historisation of data or activities in the service.</p>
-<p>This solution is not intended for enterprise companies!</p>
-<p><br /><strong>Prerequisite:</strong><br />- Installation of the REST API Connector - please follow the instructions on the page. (https://www.thepoweruser.com/2021/02/21/power-bi-rest-api-connector/)<br />- You must be authorised as a Fabric Administrator in the Azure Entra ID.</p>
+<pIn diesem Repository finden Sie eine Power BI-Vorlage, die Sie direkt zur Überwachung Ihrer Power BI-Umgebung verwenden können. Es gibt 2 Dinge, die getan werden müssen, bevor Sie diesen Bericht verwenden können..</p>
+<p>Diese Lösung enthält nur die aktuelle Situation des Dienstes. Sie beinhaltet keine automatische Aktualisierung, Historisierung von Daten oder Aktivitäten.</p>
+<p>Diese Lösung ist nicht für Großunternehmen gedacht!</p>
+<p><br /><strong>Voraussetzungen:</strong><br />- Installation des REST API Connectors - bitte folgen Sie den Anweisungen auf der Seite. (https://www.thepoweruser.com/2021/02/21/power-bi-rest-api-connector/)<br />- Sie müssen als Fabric Administrator in der Azure Entra ID autorisiert sein.</p>
 <p>&nbsp;</p>
-<p><strong>Contact me:</strong></p>
-<p>If you need an extended version of the template or help with installing it please write me a message on LinkedIN or by mail: Kathrin.Borchert@drjve.de</p>
+<p><strong>Kontakt:</strong></p>
+<p>Wenn Sie eine erweiterte Version der Vorlage oder Hilfe bei der Installation benötigen, schreiben Sie mir bitte eine Nachricht auf LinkedIN oder per Mail: Kathrin.Borchert@drjve.de</p>
