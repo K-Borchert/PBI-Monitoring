@@ -1,0 +1,2 @@
+<p>In this repository you will find a Power BI template which you can use directly to monitor your Power BI environment. There are 2 things that need to be done before you can use this report. Whole instruction in ENG-README.md</p>
+<p>In diesem Repository finden Sie eine Power BI-Vorlage, die Sie direkt zur Überwachung Ihrer Power BI-Umgebung verwenden können. Es gibt 2 Dinge, die getan werden müssen, bevor Sie diesen Bericht verwenden können. Komplette ANleitung hier: DE-README.md</p>
